@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ODIN</class>
+ <widget class="QMainWindow" name="ODIN">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>797</width>
+    <height>586</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ODIN - Optimized Digital Assistant For Internal HR</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../image/1.png</normaloff>../image/1.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #023E8A;</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="GO">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>480</y>
+      <width>75</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius: 12px;
+background-color: #0077B6;
+color: white;
+padding: 8px 16px;
+font-weight: bold;</string>
+    </property>
+    <property name="text">
+     <string>-----&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="LINE">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>480</y>
+      <width>661</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 63 10pt &quot;Yu Gothic UI Semibold&quot;;
+background-color: #03045E;
+border: 2px solid #00B4D8;
+border-radius: 10px;
+padding: 6px 12px;
+font-size: 14px;
+color: #FFFFFF;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="TEXT">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>10</y>
+      <width>741</width>
+      <height>461</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: #001f3f;
+color: white;
+font-family: 'Segoe UI';
+font-size: 14px;
+border: 2px solid #00b4d8;
+border-radius: 10px;
+padding: 10px;</string>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>797</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
