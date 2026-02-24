@@ -33,8 +33,6 @@ pip install google-generativeai
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
 ## Extra Info
 The code for ODIN is still under development and the latest version of code as well as the UI won't be available on the repository until further notice. However, For anyone who is interested in viewing the very first version, may visit the deprecated branch where I uploaded the code dated back to August of 2025 that was used in the presentation of the project.
 
