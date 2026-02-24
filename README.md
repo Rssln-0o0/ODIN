@@ -40,4 +40,4 @@ The code for ODIN is still under development and the latest version of code as w
 
 ## License
 
-[Apache-2.0](https://choosealicense.com/licenses/mit/)
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
