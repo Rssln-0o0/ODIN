@@ -12,7 +12,7 @@ ODIN uses the following libraries, software and APIs :
 
 [Spacy](https://spacy.io/)\
 [Qt6](https://www.qt.io/development/qt-framework/qt6)\
-[Gemini API](https://aistudio.google.com/)\
+[Gemini API](https://aistudio.google.com/)
 
 ## Installation
 
