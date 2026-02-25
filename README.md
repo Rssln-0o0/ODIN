@@ -36,7 +36,8 @@ to discuss what you would like to change.
 ## Extra Info
 The code for ODIN is still under development and the latest version of code as well as the UI won't be available on the repository until further notice. However, For anyone who is interested in viewing the very first version, may visit the deprecated branch where I uploaded the code dated back to August of 2025 that was used in the presentation of the project.
 
-This README still lacks some crucial informations like the Run section, Release Notes section, etc...\ I am fully aware of that and I want to keep it like that for a while until the time comes. 
+This README still lacks some crucial informations like the Run section, Release Notes section, etc...\
+I am fully aware of that and I want to keep it like that for a while until the time comes. 
 
 ## License
 
